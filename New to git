@@ -2,3 +2,14 @@
 经过了很长的时间，我重新开始学习了，这几天把操作系统更换为了Fedora,暂时没有找到合适的Markdown编辑器，就想到了这里。
 ## Git技术和Github
 Git是一种版本控制技术，Github是一个使用了Git技术的网站，里面可以对个人的软件进行存放。
+## git的基本使用流程
+git下载
+git初始化
+git配置
+git的分区：工作区、缓存区、提交区
+git的命令：git add、git commit -m、git push
+## github的个人站点使用
+新建个人站点：就是新建一个仓库，仓库名称必须是 用户名.github.io
+有了这个站点，新建index.html文件
+然后其他项目可以在setting中设置加入到这个站点中
+然后就可以通过www.xxxx.github.io 访问了
